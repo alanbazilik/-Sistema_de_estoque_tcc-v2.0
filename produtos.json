@@ -1,8 +1,8 @@
 {
     "produtos": [{
-        "id": 2,
+        "id": 1,
         "nome": "Qualy Cremosa com sal",
         "codigo_barras": "7893000394209",
-        "preco": 9.9
+        "preco": 9.95
     }]
 }
